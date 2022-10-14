@@ -1,0 +1,5 @@
+planing study
+-learning native java
+-learning native php
+-learning java framework
+-learning php framework
