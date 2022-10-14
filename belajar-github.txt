@@ -4,6 +4,7 @@ Learning Github
 -Branch
 -Merge
 -HTML CSS
--Java
+-JavaScript
+*JavaScript is bla bla bla
 -Php
 CodeIgniter4
